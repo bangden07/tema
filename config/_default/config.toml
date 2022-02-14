@@ -75,12 +75,12 @@ ignoreErrors = ["error-remote-getjson"]
 
   [Params.Tree]
   use = true
-  folderName = "streaming"
+  folderName = "streaming 💃"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["Blog", "https://bangden.space/"],
-    ["Github", "https://github.com/bangden07"],
-    ["Contact", "bangden07@gmail.com"],
+    ["🌐 Blog", "https://bangden.space/"],
+    ["🗃️ Github", "https://github.com/bangden07"],
+    ["☎️ Contact", "bangden07@gmail.com"],
   ]
 
 [module]
