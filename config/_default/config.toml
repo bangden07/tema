@@ -80,7 +80,7 @@ ignoreErrors = ["error-remote-getjson"]
   files = [ 
     ["Blog", "https://bangden.space/"],
     ["About", "/post/some-activity.md"],
-    ["Contact", "/post/some-activity.md"],
+    ["Contact", "/works/go.md"],
   ]
 
 [module]
